@@ -1,0 +1,8 @@
+{
+  "name": "motion-graphics",
+  "version": "1.0.0",
+  "description": "General-purpose Antigravity skill and toolkit for building deterministic, frame-synced programmatic motion graphics videos with Remotion, React, and TypeScript.",
+  "author": "Asharuu",
+  "license": "MIT",
+  "repository": "https://github.com/Asharuu/Motion-Graphics.git"
+}
